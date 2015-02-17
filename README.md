@@ -1,2 +1,2 @@
 # hello
-Hello, world! shared library
+Extremely useful library for writing "Hello, World!" applications.
